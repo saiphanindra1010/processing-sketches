@@ -2,8 +2,8 @@ Star[] stars =new Star[800];
 float speed;
 void setup()
 {
-  size(1000,1000);
-  
+  //size(1000,1000);
+  fullScreen();
   for(int i=0;i<stars.length;i++)
   
   {

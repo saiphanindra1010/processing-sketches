@@ -23,7 +23,7 @@ class Star
   }
     void show()
   {
-    fill(random(0,255), random(0,255),  random(0,255));
+    fill(random(0,255), random(0,255), random(0,255));
     noStroke();
     float starx =map(x/z,0,1,0,width);
     float stary =map(y/z,0,1,0,height);
