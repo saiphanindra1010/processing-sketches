@@ -45,7 +45,7 @@
       <td align="center">
 <a href="https://github.com/saiphanindra1010/processing-sketches/blob/master/sketch-06(Yin%20yang)/Yin_Yang/Yin_Yang.pde"><img src="https://github.com/saiphanindra1010/processing-sketches/blob/master/Sample-images/Yin%20Yang.gif" width="400px;" alt=""/>
 <br />
-<sub><b></b></sub>
+<sub><b>Yin_Yang</b></sub>
 </a>
 <br/>
 </td>
