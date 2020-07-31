@@ -31,14 +31,14 @@
     <td align="center">
 <a href="https://github.com/saiphanindra1010/processing-sketches/blob/master/sketch-04(recursive%20art)/recursive_art/recursive_art.pde"><img src="https://github.com/saiphanindra1010/processing-sketches/blob/master/Sample-images/recursive-art.gif" width="200px;" alt=""/>
 <br />
-<sub><b></b></sub>
+<sub><b>recursive art</b></sub>
 </a>
 <br/>
 </td>
       <td align="center">
 <a href="https://github.com/saiphanindra1010/processing-sketches/blob/master/sketch-05(Target%20particals)/target_particles/target_particles.pde"><img src="https://github.com/saiphanindra1010/processing-sketches/blob/master/Sample-images/TargetParticles.gif" width="400px;" alt=""/>
 <br />
-<sub><b></b></sub>
+<sub><b>target particles</b></sub>
 </a>
 <br/>
 </td>
@@ -50,5 +50,15 @@
 <br/>
 </td>
 </tr>
+ <tr>
+    <td align="center">
+<a href="https://github.com/saiphanindra1010/processing-sketches/blob/master/sketch-07(particleArt)/particleArt/particleArt.pde"><img src="https://github.com/saiphanindra1010/processing-sketches/blob/master/Sample-images/ParticleArt.gif" width="200px;" alt=""/>
+<br />
+<sub><b>particle Art</b></sub>
+</a>
+<br/>
+</td>
 
+
+</tr>
 </table>
